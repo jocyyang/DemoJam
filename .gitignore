@@ -1,0 +1,9 @@
+/build/*
+/.git/*
+/.settings/*
+/build/*
+/src/*
+/UI5Library/*
+.project
+.classpath
+!.gitignore
