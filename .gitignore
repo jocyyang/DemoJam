@@ -4,7 +4,6 @@
 /.settings/*
 /build/*
 /src/*
-/UI5Library/*
 .project
 .classpath
 /WebContent/META-INF/*
